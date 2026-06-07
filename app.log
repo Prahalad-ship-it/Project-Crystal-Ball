@@ -681,3 +681,36 @@
 2026-06-07 14:44:04,939 - __main__ - INFO - Starting signal refresh for all tickers
 2026-06-07 14:44:04,941 - data_fetcher - INFO - Fetching data for AAPL
 2026-06-07 14:44:06,607 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:44:07,609 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:44:08,545 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:44:09,501 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:44:10,083 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:44:10,822 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:44:11,180 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:44:11,182 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:44:11,381 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:44:11,921 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:44:12,331 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:44:12,568 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:44:13,166 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:44:13,805 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:44:14,368 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:44:14,963 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:44:16,111 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:44:16,875 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:44:36,610 - __main__ - INFO - =======================================================
+2026-06-07 14:44:36,612 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:44:36,612 - __main__ - INFO - =======================================================
+2026-06-07 14:44:36,613 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:44:36,613 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:44:36,614 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:44:36,614 - __main__ - INFO - =======================================================
+2026-06-07 14:44:36,616 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:44:36,617 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:44:36,617 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:44:38,328 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:44:39,165 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:44:39,849 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:44:48,838 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:44:48,839 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:44:50,499 - data_fetcher - INFO - Fetching data for TSLA
