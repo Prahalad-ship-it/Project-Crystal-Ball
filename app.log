@@ -1,0 +1,660 @@
+2026-06-07 14:17:30,554 - __main__ - INFO - =======================================================
+2026-06-07 14:17:30,554 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:17:30,555 - __main__ - INFO - =======================================================
+2026-06-07 14:17:30,555 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:17:30,555 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:17:30,555 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:17:30,555 - __main__ - INFO - =======================================================
+2026-06-07 14:17:30,556 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:17:30,557 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:17:30,557 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:17:42,953 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:17:43,400 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:17:43,938 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:17:44,448 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:17:44,897 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:17:45,390 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:17:45,889 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:17:48,904 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:17:48,906 - __main__ - INFO - Starting background refresh thread (interval: 60s)
+2026-06-07 14:17:48,906 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:17:48,906 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:17:48,907 - __main__ - INFO -   Starting web server...
+2026-06-07 14:17:48,938 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.194:5000
+2026-06-07 14:17:48,938 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-07 14:17:49,523 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:17:50,047 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:17:50,568 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:17:51,055 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:17:51,474 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:17:51,913 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:17:52,366 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:17:52,946 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:18:48,903 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:18:48,903 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:18:49,498 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:18:49,951 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:18:50,511 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:18:50,986 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:18:51,430 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:18:51,865 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:18:52,294 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:18:52,799 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:19:48,900 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:19:48,901 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:19:49,662 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:19:50,288 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:19:50,905 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:19:51,503 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:19:52,058 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:19:52,594 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:19:53,129 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:19:53,692 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:20:48,896 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:20:48,897 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:20:49,757 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:20:50,358 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:20:50,853 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:20:51,373 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:20:51,773 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:20:52,436 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:20:52,875 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:20:53,561 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:21:48,893 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:21:48,894 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:21:49,460 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:21:50,014 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:21:50,754 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:21:51,972 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:21:52,633 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:21:53,619 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:21:54,364 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:21:54,925 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:22:48,889 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:22:48,890 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:22:49,485 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:22:49,894 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:22:50,382 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:22:50,927 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:22:51,923 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:22:52,360 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:22:52,893 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:22:53,469 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:23:48,886 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:23:48,886 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:23:49,827 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:23:50,424 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:23:50,997 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:23:51,541 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:23:51,950 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:23:52,559 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:23:52,999 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:23:53,485 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:24:48,884 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:24:48,884 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:24:49,585 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:24:50,181 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:24:50,701 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:24:51,198 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:24:51,909 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:24:52,476 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:24:53,091 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:24:53,762 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:25:42,463 - __main__ - INFO - =======================================================
+2026-06-07 14:25:42,463 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:25:42,463 - __main__ - INFO - =======================================================
+2026-06-07 14:25:42,463 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:25:42,463 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:25:42,463 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:25:42,465 - __main__ - INFO - =======================================================
+2026-06-07 14:25:42,465 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:25:42,466 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:25:42,466 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:25:48,880 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:25:48,882 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:25:49,724 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:25:50,377 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:25:50,880 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:25:51,414 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:25:51,879 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:25:52,471 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:25:52,915 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:25:53,487 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:26:01,360 - __main__ - INFO - =======================================================
+2026-06-07 14:26:01,361 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:26:01,362 - __main__ - INFO - =======================================================
+2026-06-07 14:26:01,363 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:26:01,364 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:26:01,365 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:26:01,366 - __main__ - INFO - =======================================================
+2026-06-07 14:26:01,366 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:26:01,367 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:26:01,368 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:26:02,996 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:26:04,090 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:26:05,431 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:26:06,379 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:26:07,487 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:26:08,465 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:26:09,065 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:26:11,216 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:26:11,218 - __main__ - INFO - Starting background refresh thread (interval: 60s)
+2026-06-07 14:26:11,218 - __main__ - INFO -   Starting web server...
+2026-06-07 14:26:11,219 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:26:11,220 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:26:11,256 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.194:5000
+2026-06-07 14:26:11,256 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-07 14:26:11,773 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:26:12,313 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:26:12,812 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:26:13,343 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:26:13,868 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:26:14,378 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:26:14,836 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:26:15,398 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:26:48,877 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:26:48,878 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:26:49,681 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:26:50,227 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:26:50,906 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:26:51,628 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:26:52,194 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:26:52,682 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:26:53,183 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:26:53,929 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:27:11,217 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:27:11,218 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:27:12,206 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:27:13,013 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:27:13,630 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:27:14,161 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:27:14,562 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:27:15,059 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:27:15,522 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:27:16,049 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:27:48,874 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:27:48,875 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:27:49,436 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:27:49,972 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:27:50,541 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:27:51,035 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:27:51,519 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:27:52,015 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:27:52,494 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:27:53,029 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:28:11,214 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:28:11,214 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:28:11,761 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:28:12,213 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:28:12,734 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:28:13,226 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:28:13,631 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:28:14,077 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:28:14,574 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:28:15,149 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:28:48,871 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:28:48,871 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:28:49,439 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:28:49,863 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:28:50,520 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:28:51,018 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:28:51,561 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:28:52,045 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:28:52,508 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:28:53,085 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:29:11,211 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:29:11,212 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:29:12,149 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:29:12,758 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:29:13,507 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:29:14,111 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:29:14,697 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:29:15,309 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:29:15,867 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:29:16,603 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:29:48,868 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:29:48,868 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:29:49,619 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:29:50,108 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:29:50,688 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:29:51,326 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:29:51,826 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:29:52,487 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:29:53,042 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:29:53,820 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:30:11,208 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:30:11,209 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:30:11,910 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:30:12,658 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:30:14,377 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:30:14,968 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:30:15,500 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:30:16,038 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:30:16,613 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:30:17,354 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:30:48,865 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:30:48,865 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:30:49,605 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:30:50,106 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:30:50,856 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:30:51,373 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:30:51,778 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:30:52,253 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:30:52,697 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:30:53,274 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:31:11,205 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:31:11,206 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:31:12,064 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:31:12,865 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:31:13,660 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:31:14,276 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:31:14,853 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:31:15,431 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:31:15,993 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:31:16,837 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:31:48,863 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:31:48,864 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:31:49,463 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:31:50,130 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:31:50,630 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:31:51,253 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:31:51,711 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:31:52,179 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:31:52,678 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:31:53,199 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:32:11,203 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:32:11,204 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:32:11,910 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:32:12,422 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:32:13,011 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:32:13,672 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:32:14,224 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:32:14,793 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:32:15,327 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:32:16,119 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:32:48,861 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:32:48,861 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:32:49,408 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:32:49,878 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:32:50,450 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:32:51,022 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:32:51,423 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:32:51,872 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:32:52,427 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:32:53,089 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:33:11,201 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:33:11,202 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:33:12,378 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:33:13,088 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:33:13,842 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:33:14,550 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:33:15,055 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:33:15,626 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:33:16,284 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:33:17,021 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:33:48,859 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:33:48,860 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:33:50,027 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:33:50,742 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:33:51,644 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:33:52,172 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:33:52,650 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:33:53,125 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:33:53,702 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:33:54,412 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:34:11,199 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:34:11,199 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:34:12,278 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:34:12,991 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:34:13,813 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:34:14,436 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:34:14,995 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:34:15,519 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:34:16,070 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:34:16,852 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:34:48,857 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:34:48,857 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:34:49,632 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:34:50,224 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:34:50,734 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:34:51,252 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:34:51,659 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:34:52,079 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:34:52,509 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:34:53,195 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:35:11,197 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:35:11,198 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:35:11,975 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:35:13,141 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:35:13,791 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:35:14,455 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:35:15,176 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:35:15,761 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:35:16,284 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:35:17,109 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:35:48,854 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:35:48,855 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:35:49,549 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:35:50,054 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:35:50,588 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:35:51,113 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:35:51,559 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:35:52,057 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:35:52,517 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:35:53,094 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:36:11,195 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:36:11,196 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:36:12,307 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:36:12,790 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:36:13,343 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:36:13,977 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:36:14,536 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:36:15,070 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:36:15,635 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:36:16,373 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:36:48,853 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:36:48,853 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:36:49,373 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:36:49,872 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:36:50,331 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:36:50,836 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:36:51,247 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:36:51,669 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:36:52,128 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:36:52,745 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:36:58,946 - __main__ - INFO - =======================================================
+2026-06-07 14:36:58,947 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:36:58,947 - __main__ - INFO - =======================================================
+2026-06-07 14:36:58,947 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:36:58,948 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:36:58,948 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:36:58,948 - __main__ - INFO - =======================================================
+2026-06-07 14:36:58,949 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:36:58,949 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:36:58,949 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:36:59,981 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:37:00,373 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:37:00,958 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:37:01,452 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:37:01,865 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:37:02,352 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:37:02,795 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:37:04,943 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:37:04,944 - __main__ - INFO - Starting background refresh thread (interval: 60s)
+2026-06-07 14:37:04,945 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:37:04,945 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:37:04,946 - __main__ - INFO -   Starting web server...
+2026-06-07 14:37:04,974 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.194:5000
+2026-06-07 14:37:04,974 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-07 14:37:05,398 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:37:05,861 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:37:06,392 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:37:06,895 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:37:07,313 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:37:07,775 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:37:08,213 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:37:08,854 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:37:11,193 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:37:11,194 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:37:12,175 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:37:13,149 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:37:13,929 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:37:14,979 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:37:15,980 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:37:16,983 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:37:17,699 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:37:18,877 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:37:48,850 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:37:48,850 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:37:49,535 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:37:50,253 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:37:50,877 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:37:51,542 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:37:51,972 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:37:52,411 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:37:52,947 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:37:53,469 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:38:04,943 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:38:04,943 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:38:05,573 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:38:06,009 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:38:06,464 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:38:06,966 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:38:07,554 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:38:08,036 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:38:08,506 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:38:09,266 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:38:11,191 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:38:11,191 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:38:11,803 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:38:12,395 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:38:12,976 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:38:13,670 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:38:14,158 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:38:14,721 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:38:15,278 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:38:16,114 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:38:48,849 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:38:48,850 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:38:49,655 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:38:50,256 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:38:50,871 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:38:51,494 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:38:52,029 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:38:52,645 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:38:53,277 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:38:54,072 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:04,942 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:04,942 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:05,797 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:06,543 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:07,237 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:39:07,875 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:39:08,422 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:39:09,006 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:39:09,569 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:39:10,331 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:11,191 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:11,193 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:11,926 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:12,627 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:13,438 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:39:14,224 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:39:14,736 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:39:15,419 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:39:16,021 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:39:16,886 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:48,847 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:48,847 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:49,553 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:50,015 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:50,550 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:39:50,632 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,633 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:39:50,633 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,634 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:39:50,634 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:39:50,634 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:39:50,635 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,635 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:39:50,635 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:50,635 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:51,076 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:39:51,609 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:39:51,620 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:52,099 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:52,368 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:39:52,615 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:39:52,866 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:39:53,159 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:39:53,499 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:53,729 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:39:54,177 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:39:54,640 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:39:57,504 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:57,509 - __main__ - INFO - Starting background refresh thread (interval: 60s)
+2026-06-07 14:39:57,510 - __main__ - INFO -   Starting web server...
+2026-06-07 14:39:57,511 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:57,512 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:57,569 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.194:5000
+2026-06-07 14:39:57,570 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-07 14:39:58,182 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:58,869 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:59,588 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:40:00,252 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:40:00,917 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:40:01,522 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:40:02,083 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:40:03,255 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:40:04,946 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:40:04,947 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:40:05,704 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:40:06,316 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:40:07,112 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:40:07,802 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:40:08,509 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:40:09,049 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:40:09,626 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:40:10,286 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:40:11,189 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:40:11,189 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:40:12,215 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:40:12,888 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:40:13,478 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:40:14,108 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:40:14,612 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:40:15,118 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:40:15,665 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:40:16,431 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:40:48,844 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:40:48,844 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:40:49,445 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:40:49,902 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:40:50,402 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:40:50,948 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:40:51,460 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:40:51,973 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:40:52,420 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:40:52,965 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:40:57,508 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:40:57,508 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:40:58,248 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:40:59,016 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:40:59,495 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:00,116 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:00,730 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:41:01,193 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:41:01,632 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:41:02,220 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:41:04,944 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:41:04,945 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:41:05,478 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:41:05,945 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:41:06,481 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:07,058 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:07,450 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:41:07,892 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:41:08,268 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:41:08,823 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:41:11,187 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:41:11,188 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:41:11,804 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:41:12,333 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:41:12,933 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:13,516 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:14,023 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:41:14,650 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:41:15,386 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:41:16,179 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:41:48,842 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:41:48,842 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:41:49,741 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:41:50,825 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:41:51,337 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:51,980 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:52,417 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:41:53,132 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:41:53,627 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:41:54,267 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:41:57,506 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:41:57,506 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:41:58,016 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:41:58,454 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:41:59,027 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:59,505 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:59,910 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:42:00,452 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:42:00,870 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:42:01,359 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:42:04,942 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:42:04,942 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:42:05,495 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:42:05,946 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:42:06,393 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:42:06,855 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:42:07,329 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:42:07,788 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:42:08,208 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:42:08,930 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:42:11,184 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:42:11,185 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:42:11,858 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:42:12,386 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:42:12,986 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:42:13,583 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:42:14,095 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:42:14,767 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:42:15,369 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:42:16,106 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:42:48,841 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:42:48,841 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:42:49,440 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:42:49,923 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:42:50,509 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:42:51,201 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:42:51,754 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:42:52,277 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:42:52,716 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:42:53,317 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:42:57,504 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:42:57,504 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:42:58,176 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:42:58,641 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:42:59,078 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:42:59,888 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:43:00,503 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:43:01,118 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:43:01,832 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:43:03,114 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:43:04,940 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:43:04,940 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:43:05,569 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:43:06,083 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:43:06,692 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:43:07,269 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:43:07,955 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:43:08,530 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:43:09,099 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:43:10,020 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:43:11,183 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:43:11,183 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:43:11,808 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:43:12,393 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:43:13,258 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:43:13,888 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:43:14,471 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:43:15,006 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:43:15,552 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:43:16,389 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers

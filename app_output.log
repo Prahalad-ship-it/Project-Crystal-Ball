@@ -1,0 +1,67 @@
+2026-06-07 14:39:50,632 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,633 - __main__ - INFO -   CRYSTAL BALL — Real-Time Signal Dashboard
+2026-06-07 14:39:50,633 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,634 - __main__ - INFO -   Watchlist: AAPL, TSLA, NVDA, MSFT, AMZN, META, GOOGL, SPY
+2026-06-07 14:39:50,634 - __main__ - INFO -   Refresh  : every 60s
+2026-06-07 14:39:50,634 - __main__ - INFO -   URL      : http://0.0.0.0:5000
+2026-06-07 14:39:50,635 - __main__ - INFO - =======================================================
+2026-06-07 14:39:50,635 - __main__ - INFO -   Fetching initial data (this may take a moment)…
+2026-06-07 14:39:50,635 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:50,635 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:39:51,620 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:52,099 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:52,615 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:39:53,159 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:39:53,729 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:39:54,177 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:39:54,640 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:39:57,504 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:39:57,509 - __main__ - INFO - Starting background refresh thread (interval: 60s)
+2026-06-07 14:39:57,510 - __main__ - INFO -   Starting web server...
+2026-06-07 14:39:57,511 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:39:57,512 - data_fetcher - INFO - Fetching data for AAPL
+ * Serving Flask app 'realtime_signals'
+ * Debug mode: off
+2026-06-07 14:39:57,569 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.194:5000
+2026-06-07 14:39:57,570 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-06-07 14:39:58,182 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:39:58,869 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:39:59,588 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:40:00,252 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:40:00,917 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:40:01,522 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:40:02,083 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:40:03,255 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:40:57,508 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:40:57,508 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:40:58,248 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:40:59,016 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:40:59,495 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:00,116 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:00,730 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:41:01,193 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:41:01,632 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:41:02,220 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:41:57,506 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:41:57,506 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:41:58,016 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:41:58,454 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:41:59,027 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:41:59,505 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:41:59,910 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:42:00,452 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:42:00,870 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:42:01,359 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
+2026-06-07 14:42:57,504 - __main__ - INFO - Starting signal refresh for all tickers
+2026-06-07 14:42:57,504 - data_fetcher - INFO - Fetching data for AAPL
+2026-06-07 14:42:58,176 - data_fetcher - INFO - Fetching data for TSLA
+2026-06-07 14:42:58,641 - data_fetcher - INFO - Fetching data for NVDA
+2026-06-07 14:42:59,078 - data_fetcher - INFO - Fetching data for MSFT
+2026-06-07 14:42:59,888 - data_fetcher - INFO - Fetching data for AMZN
+2026-06-07 14:43:00,503 - data_fetcher - INFO - Fetching data for META
+2026-06-07 14:43:01,118 - data_fetcher - INFO - Fetching data for GOOGL
+2026-06-07 14:43:01,832 - data_fetcher - INFO - Fetching data for SPY
+2026-06-07 14:43:03,114 - __main__ - INFO - Signal refresh completed. Updated 8/8 tickers
